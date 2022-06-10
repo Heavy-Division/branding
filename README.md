@@ -1,4 +1,4 @@
 # Branding
 Repo for official branding and graphic design for Heavy Division
 
-![Color Standards](https://user-images.githubusercontent.com/52870481/172034424-d62dfeda-cb2d-480e-9c43-1dcaf0d2867f.svg)
+![color_standards](https://user-images.githubusercontent.com/52870481/173100447-25d8181f-a511-4936-b73a-dccfe8f11d6f.png)
